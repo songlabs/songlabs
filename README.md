@@ -1,16 +1,18 @@
-## Hi there 👋
+# songlabs
 
-<!--
-**songlabs/songlabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Independent iPhone app developer building personal products with Swift and SwiftUI.
 
-Here are some ideas to get you started:
+## Featured Projects
+- WardrobeApp — wardrobe management app for personal use
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- Swift
+- SwiftUI
+- SwiftData
+- Xcode
+- GitHub
+
+## Current Focus
+- Building WardrobeApp
+- Exploring photo import and album import
+- Establishing a reusable iOS app development workflow
